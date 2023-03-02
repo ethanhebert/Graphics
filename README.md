@@ -1,4 +1,5 @@
 <h1> Graphics </h1>
+A collection of programs relating to computer graphics using complex lighting, shading, and ray tracing algorithms.
 <h2> Lighting and Shading (a3.py) </h2>
 <div>
 <img src="https://user-images.githubusercontent.com/80844614/222557523-e57a7c3d-c699-4bc9-8f6f-75b44b34b29a.png"  width="300">
